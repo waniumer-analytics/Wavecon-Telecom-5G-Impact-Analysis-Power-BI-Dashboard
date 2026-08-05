@@ -19,72 +19,72 @@ Wavecon Telecom launched its 5G services across multiple cities and wanted to un
 
 ## Dashboard Pages
 
-1. Executive KPI Dashboard: - Provides a high-level overview of business performance.
+# 1. Executive KPI Dashboard: - Provides a high-level overview of business performance.
 
 KPIs Included
 
-Total Revenue
-ARPU (Average Revenue Per User)
-TAU (Total Active Users)
-TUsU (Total Unsubscribed Users)
-Revenue Before vs After 5G
-Monthly Revenue Trend
-City-wise Revenue Performance
+1. Total Revenue
+2. ARPU (Average Revenue Per User)
+3. TAU (Total Active Users)
+4. TUsU (Total Unsubscribed Users)
+5. Revenue Before vs After 5G
+6. Monthly Revenue Trend
+7. City-wise Revenue Performance
 
-2. Market Analysis: - Analyze Wavecon's competitive market performance.
-
-Insights
-
-Market Share Comparison
-Revenue Share
-Active User Share
-ARPU Comparison
-Unsubscribed User Analysis
-Top 5 Cities
-Bottom 5 Cities.
-
-
-
-3. Plan Performance Analysis: - Evaluate the performance of every telecom plan.
+# 2. Market Analysis: - Analyze Wavecon's competitive market performance.
 
 Insights
 
-Revenue by Plan
-Revenue Before vs After 5G
-Monthly Revenue Trend
-Top & Bottom Performing Cities
-Individual Plan Performance
+1. Market Share Comparison
+2. Revenue Share
+3. Active User Share
+4. ARPU Comparison
+5. Unsubscribed User Analysis
+6. Top 5 Cities
+7. Bottom 5 Cities.
+
+
+
+# 3. Plan Performance Analysis: - Evaluate the performance of every telecom plan.
+
+Insights
+
+1. Revenue by Plan
+2. Revenue Before vs After 5G
+3. Monthly Revenue Trend
+4. Top & Bottom Performing Cities
+5. Individual Plan Performance
 
  ## Tools & Technologies
  
-# Power BI
-# Power Query
-# DAX
-# Data Modeling
-# Interactive Visualizations
+1. Power BI
+2.  Power Query
+3.  DAX
+4.  Data Modeling
+5.  Interactive Visualizations
 
 ## Key Business Insights
 
-Compared revenue performance before and after the 5G rollout.
-Identified cities contributing the highest and lowest revenue.
-Evaluated customer adoption trends after the launch.
-Analyzed market share against competitors.
-Measured plan-wise revenue performance.
-Highlighted underperforming KPIs requiring management attention.
-Generated actionable insights to support strategic business decisions.
+1. Compared revenue performance before and after the 5G rollout.
+2. Identified cities contributing the highest and lowest revenue.
+3. Evaluated customer adoption trends after the launch.
+4. Analyzed market share against competitors.
+5. Measured plan-wise revenue performance.
+6. Highlighted underperforming KPIs requiring management attention.
+7. Generated actionable insights to support strategic business decisions.
 
  ## Power BI Features Used
  
-Interactive Dashboard
-DAX Measures
-Power Query Data Transformation
-Data Modeling
-Slicers & Filters
-Dynamic KPI Cards
-Bookmarks & Navigation
-Conditional Formatting
-Drill-down Analysis
-Responsive Dashboard Design.
+1. Interactive Dashboard
+2. DAX Measures
+3. Power Query Data Transformation
+4. Data Modeling
+5. Slicers & Filters
+6. Dynamic KPI Cards
+7. Bookmarks & Navigation
+8. Conditional Formatting
+9. Drill-down Analysis
+10. Responsive Dashboard Design.
 
 ## Dashboard Preview
 
@@ -110,3 +110,24 @@ https://app.powerbi.com/groups/me/reports/0b030711-b95c-4c11-80ba-2cdfab20ee02/R
 ## LinkedIN 
 
 https://www.linkedin.com/posts/waniumer-analytics_wavecon-telecom-5g-business-impact-analysis-ugcPost-7490481495661244416-MQ00/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+
+
+## Video presentation 
+
+
+
+
+## Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+1. Business Intelligence Reporting
+2. Dashboard Storytelling
+3. KPI Analysis
+4. Telecom Business Analytics
+5. Data Visualization Best Practices
+6. Business Decision Support using Power BI
+
+ ## Author
+
+Wani Umar (Data Analyst)
