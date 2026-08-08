@@ -114,8 +114,8 @@ https://www.linkedin.com/posts/waniumer-analytics_wavecon-telecom-5g-business-im
 
 ## Video presentation 
 
-https://youtu.be/A7ADoaIuIWA 
 
+https://www.youtube.com/embed/gjjzqmRK_Vw 
 
 ## Learning Outcomes
 
