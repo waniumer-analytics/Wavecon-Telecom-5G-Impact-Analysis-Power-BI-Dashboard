@@ -105,7 +105,7 @@ Insights
 
 ## Live Dashboard Power BI Report
 
-https://app.powerbi.com/groups/me/reports/0b030711-b95c-4c11-80ba-2cdfab20ee02/ReportSection16b73cde20cf3ed17b51?experience=power-bi 
+https://app.powerbi.com/view?r=eyJrIjoiMjM3NTVjODMtODIzNi00MGM3LWE0NTgtNDZhZmRiZTg0ZDQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## LinkedIN 
 
