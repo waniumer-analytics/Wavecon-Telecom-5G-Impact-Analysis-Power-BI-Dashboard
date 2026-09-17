@@ -1,4 +1,4 @@
-                                                     ## Wavecon-Telecom-5G-Impact-Analysis
+# Wavecon-Telecom-5G-Impact-Analysis
                                                      
 This project analyzes the business impact of Wavecon Telecom's 5G launch using an interactive Power BI Dashboard. The objective is to evaluate how the introduction of 5G influenced revenue, customer engagement, market share, subscription trends, and plan performance across different cities.
 
@@ -17,43 +17,7 @@ Wavecon Telecom launched its 5G services across multiple cities and wanted to un
 4. How did customer behavior change?
 5. Which plans should be promoted or reconsidered?
 
-## Dashboard Pages
 
-# 1. Executive KPI Dashboard: - Provides a high-level overview of business performance.
-
-KPIs Included
-
-1. Total Revenue
-2. ARPU (Average Revenue Per User)
-3. TAU (Total Active Users)
-4. TUsU (Total Unsubscribed Users)
-5. Revenue Before vs After 5G
-6. Monthly Revenue Trend
-7. City-wise Revenue Performance
-
-# 2. Market Analysis: - Analyze Wavecon's competitive market performance.
-
-Insights
-
-1. Market Share Comparison
-2. Revenue Share
-3. Active User Share
-4. ARPU Comparison
-5. Unsubscribed User Analysis
-6. Top 5 Cities
-7. Bottom 5 Cities.
-
-
-
-# 3. Plan Performance Analysis: - Evaluate the performance of every telecom plan.
-
-Insights
-
-1. Revenue by Plan
-2. Revenue Before vs After 5G
-3. Monthly Revenue Trend
-4. Top & Bottom Performing Cities
-5. Individual Plan Performance
 
  ## Tools & Technologies
  
@@ -117,16 +81,7 @@ https://www.linkedin.com/posts/waniumer-analytics_wavecon-telecom-5g-business-im
 
 https://www.youtube.com/embed/gjjzqmRK_Vw 
 
-## Learning Outcomes
 
-Through this project, I strengthened my understanding of:
-
-1. Business Intelligence Reporting
-2. Dashboard Storytelling
-3. KPI Analysis
-4. Telecom Business Analytics
-5. Data Visualization Best Practices
-6. Business Decision Support using Power BI
 
  ## Author
 
